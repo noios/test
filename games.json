@@ -1,12 +1,8 @@
-{
-  "game": [
-    {
-      "title": "Elder Scrolls V: Skyrim",
-      "releaseYear": "“2011”",
-      "director": "Todd Howard",
-      "publisher": "“Bethesda Softworks”",
-      "description": "The Elder Scrolls V: Skyrim is the best gam ever made. Fight me.",
-      "image": "“”"
-    }
-  ]
-}
+[{
+	"id": 1,
+	"title": "The Elder Scrolls V: Skyrim",
+	"year": "2011",
+	"image": "",
+	"created_at": "2019-10-06T17:55:21.374Z",
+	"updated_at": "2019-10-06T17:55:21.374Z"
+}]
